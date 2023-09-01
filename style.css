@@ -60,4 +60,19 @@ main {
     }
     
 }
+
+#lista{
+    background-color: #40AFE3;
+    height: 30px;
+    width: 180px;
+    padding-top: 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+
+#lista > a {
+    color:  white;
+    font-size: 1.1em;
+}
 }
